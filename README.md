@@ -27,8 +27,9 @@ Then, created a **tags** field using **overview, genres, keywords, cast, and cre
 
 To recommend similar movies, I calculated **similarity score** of movies and show the user top 5 similar movies. Similarity score is calculated using **Vectorization** process, by finding **cosine distance** between two vectors.
 
-## Preview
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X1RrRuSYh8I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+## Screenshots
+<img src="./img/ss1.png">
+<img src="./img/ss2.png">
 
 
 
