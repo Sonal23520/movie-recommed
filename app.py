@@ -28,10 +28,10 @@ ifile = bz2.BZ2File("similarity.pkl",'rb')
 similarity = pickle.load(ifile)
 ifile.close()
 
-st.title('Movie Recommender System')
+st.title('Movie Recommendation System')
 
 selected_movie_name = st.selectbox(
-    'How would you like to be contacted?',
+    'Select One Movie',
     movies['title'].values
 )
 
